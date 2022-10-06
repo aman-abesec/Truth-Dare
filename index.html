@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Truth or Dare</title>
+    <link rel="stylesheet" href="master.css">
+  </head>
+  <body>
+    <div class="container">
+      <div class="header">
+        <h1 class="header-heading">Truth or Dare</h1>
+      </div>
+      <div class="body">
+        <div class="row">
+          <div class="col-right">
+              <div class="right-row">
+                <div class="right-col-up">
+                  <input type="text" class="text-input" placeholder="Enter name...">
+                  <button type="button" class="add-btn" onclick="addName()">Add</button>
+                </div>
+                <div class="right-col-down">
+                  <button type="button" class="play-btn" onclick="playFunction()">Play</button>
+                  <h2 class="selected-name"></h2>
+                  <p class="task"></p>
+                </div>
+              </div>
+          </div>
+          <div class="col-left">
+            <ul class="list-item">
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  <script src="script.js"></script>
+  </body>
+</html>
