@@ -21,7 +21,7 @@ function playFunction(){
   var selectedName=document.querySelectorAll(".list-element");
   var name=document.querySelector(".selected-name");
   var taskP=document.querySelector(".task");
-  if (selectedName.length===0){
+  if (selectedName.length<=1){
     alert("Please Mention Some Name");
   }
   else{
