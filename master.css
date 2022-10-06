@@ -24,7 +24,7 @@ body{
 .row{
   display: flex;
   flex-direction: row;
-  height:50vh;
+  height:24em;
 }
 .col-left{
   padding-left:4%;
