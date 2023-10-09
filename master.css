@@ -3,7 +3,7 @@ body{
   padding:0px;
   background-size: 100% 100%;
   background-position: 0px 0px;
-  background-image: linear-gradient(90deg, #A100FFFF 0%, #71C3FFFF 100%);
+  background-image: linear-gradient(90deg, #A000FFFF 0%, #71C3FFFF 100%);
   display: flex;
   justify-content:center;
 }
