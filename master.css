@@ -16,7 +16,7 @@ body{
 .header-heading{
   font-size:2.4rem;
   text-align: center;
-  background: #121FCF;
+  background: #121ECF;
   //background: linear-gradient(to right, #121FCF 0%, #71C4FFFF 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
