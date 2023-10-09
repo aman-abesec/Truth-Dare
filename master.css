@@ -39,7 +39,7 @@ body{
   -webkit-box-shadow: inset 0 0 2px rgba(0, 0, 0, 0.1);
 }
 .col-left::-webkit-scrollbar-thumb {
-  background-image: linear-gradient(90deg, #A100FFFF 0%, #71C4FFFF 100%);
+  background-image: linear-gradient(90deg, #A100FFFF 0%, #71C5FFFF 100%);
   outline: 1px solid #eee;
 }
 .col-right{
