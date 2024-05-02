@@ -5,3 +5,5 @@
 - Click on the play button and enjoy the game
 
 <a href="https://aman-abesec.github.io/Truth-Dare/">Play</a>
+
+![Uploading image.png…]()
